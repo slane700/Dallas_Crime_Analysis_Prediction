@@ -59,6 +59,6 @@ When dealing with live data we often have to deal with discrepancies in our data
 To further investigate the vast amount of crime data it would be vital to look into trends overtime. It would also be interesting to investigate other types of machine learning models using different targets such as crime category or watch. This would allow us to see what else we could potentially predict and compare the different scores between each model.
 
 ### Contact:
-Alex Arnold: alexnarnold630@gmail.com <br>
-Samantha Lane <br>
+Alex Arnold <br>
+Samantha Lane: slane700@gmail.com <br>
 Rachel Podemski
